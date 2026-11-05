@@ -1,0 +1,4 @@
+timestamp,status,path,baseline_sha256,current_sha256
+2026-11-05T18:12:49.590662+00:00,MODIFIED,/home/moeez/FIM-Lab/critical.txt,30488ba9d1cf1884837d03a9b5e9e7108b49c8f28d0ddcc31df764a1149b631e,7af6ffcefcf936f4ae2f208fc0baeb43b116b03b740fac16f3c4a66925501ff8
+2026-11-05T18:12:49.590662+00:00,ADDED,/home/moeez/FIM-Lab/new.txt,,f454169a780a99a46d03be23c4173e00b63bc1becf3a297cf07f76684dbd3c4e
+2026-11-05T18:12:49.590662+00:00,DELETED,/home/moeez/FIM-Lab/readme.txt,4ea2a72ed972663f8e56c9680a9e7e5dde08b2a4810e50f5737b88f5a2fc5cae,
